@@ -5,6 +5,7 @@
 This project forecasts daily ERCOT (Electric Reliability Council of Texas) electricity demand (MWh) using historical load and weather data. Two modeling approaches were implemented and compared:
 - XGBoost (Machine Learning)
 - Prophet (Time-Series Forecasting)
+  
 The objective is to evaluate predictive performance and understand how weather and historical demand patterns influence grid load.
 This project demonstrates time-series forecasting, feature engineering, model comparison, and dashboard deployment for infrastructure analytics.
 
